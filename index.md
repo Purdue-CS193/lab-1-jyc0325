@@ -1,9 +1,9 @@
-#David Cho's first CS193 Lab
+# David Cho's first CS193 Lab
 
-*Freshman-friendly
-*Useful
-*Interesting
-*Awesome!
+* Freshman-friendly
+* Useful
+* Interesting
+* Awesome!
 
 
 ## Welcome to GitHub Pages
